@@ -1,10 +1,7 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
-
-
+### NAME: Pragaharshitha NC
+### ROLL NO:212222110033
+### DEPARTMENT:CSE(IOT)
 
  ## AIM:
 To enable and establish a secure SSH (Secure Shell) connection with the Raspberry Pi, allowing remote terminal access for configuration and control.
@@ -60,6 +57,7 @@ On Linux/macOS:
 2. Type: ssh pi@<IP_ADDRESS>
 3. Accept the fingerprint (first-time only).
 4. Enter the password when prompted.
+5. 
 ## SCREEN SHOTS OF THE INTERFACE 
 
 
@@ -71,6 +69,18 @@ On Linux/macOS:
 
 
 ![image](https://github.com/user-attachments/assets/0ca3336d-608d-4490-a4a8-fe751b99c3e5)
+
+## OUTPUT:
+
+<img width="1919" height="1079" alt="508540988-da46d69b-b24e-4c23-b286-d9dcfea765ae" src="https://github.com/user-attachments/assets/2e8145ae-f250-433c-812e-a79a9c086072" />
+
+<img width="1919" height="1079" alt="508541078-371e121d-ad26-4371-8ff7-9bbfbb5c75ad" src="https://github.com/user-attachments/assets/6ce43878-6125-48f4-b887-858a1ff78850" />
+
+
+<img width="1919" height="1079" alt="508818917-57e100ef-bd41-45bb-aae5-2a7dd3d01b17" src="https://github.com/user-attachments/assets/37c1bb0c-ab31-49eb-8f30-5359c8ab472e" />
+
+
+
 
 
 
